@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1703721264 source:c:\users\hp\desktop\c-programs\lexical\main.cpp
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
